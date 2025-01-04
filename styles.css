@@ -47,6 +47,15 @@ body {
     border-radius: 12px;
     padding: 20px;
     cursor: pointer;
-    transition: background-color 0.3s ease;
+    transition: 0.3s;
+    font-weight: bold;
     
+   
+    
+}
+
+.button:hover {
+    background-color: aqua;
+    box-shadow: 0 0 5px gold;
+    color: rgb(200, 189, 141);
 }
